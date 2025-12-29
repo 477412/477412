@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 About Me
+
 
 Hi there!  
 I'm a santri and a beginner developer who is learning programming step by step with discipline and consistency.
@@ -9,6 +9,7 @@ I'm a santri and a beginner developer who is learning programming step by step w
 - 🤝 Open to beginner-friendly collaboration
 - 💬 Ask me about JavaScript basics and my learning journey
 - ⚡ Fun fact: I believe the discipline I learn as a santri helps me grow as a developer
+
 
 
 ## 🌐 Socials:
