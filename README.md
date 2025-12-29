@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there 👋  <br>I'm a santri and a lifelong learner who is passionate about technology, self-growth, and meaningful impact.<br><br>🌱 I'm currently learning:<br>- JavaScript (fundamentals & logic)<br>- React.js<br>- Basic backend concepts<br>- Git & GitHub workflow<br><br>🛠️ I'm currently working on:<br>- Small coding projects to sharpen my logic<br>- Practice projects using JavaScript & React<br>- Building consistency in learning and problem-solving<br><br>🤝 I'm looking to collaborate on:<br>- Beginner-friendly open source projects<br>- Learning-based coding projects<br>- Anything that helps me grow step by step<br><br>🙏 I'm looking for help with:<br>- Writing clean and understandable code<br>- Improving problem-solving mindset<br>- Best practices as a beginner developer<br><br>💬 Ask me about:<br>- My journey as a santri learning programming<br>- JavaScript basics<br>- Learning coding from zero<br><br>⚡ Fun fact:<br>I believe discipline, patience, and consistency — values I learn as a santri — are also the keys to becoming a great developer.<br>
+# 👋 About Me
+
+Hi there!  
+I'm a santri and a beginner developer who is learning programming step by step with discipline and consistency.
+
+- 🌱 Currently learning: **JavaScript & React**
+- 🛠️ Working on small practice projects
+- 🤝 Open to beginner-friendly collaboration
+- 💬 Ask me about JavaScript basics and my learning journey
+- ⚡ Fun fact: I believe the discipline I learn as a santri helps me grow as a developer
 
 
 ## 🌐 Socials:
